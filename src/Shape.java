@@ -64,6 +64,10 @@
          */
         public abstract double computePerimeter();
 
+        public abstract double getDiameter();
+
+        public abstract void setDiameter(double diameter);
+
 
         /**
          * Creates a string representation of the object
