@@ -2,7 +2,7 @@
 import processing.core.PApplet;
 
 /**
- * This program draws shapes sorted by area onto a 2D canvas
+ * This program draws can draw concectric circles where mouse is clicked
  *
  * @author
  * @version
